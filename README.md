@@ -26,11 +26,29 @@ X.c Reference
 
           http://www.thoughtsoncloud.com
 	  http://www.wikinvest.com/concept/Cloud_Computing
-	  http://cloudtweaks.com/
+	  http://cloudtweaks.com
 
        
 2. Client
+
+    2.a What is Client?
+        Client: requests for services.
+        A client is a computer or an application that retrieves information from or uses resources provided by the server.
+	For example An e-mail client is an application that enables you to send and receive e-mail.
+
+    2.b Why client is used?
+        The client establishes a connection to the server over a local area network (LAN) or wide-area network (WAN), such as the Internet.
+	
+    2.c References:
+
+        http://www.webopedia.com/TERM/C/client.html
+	https://www.utdallas.edu/~chung/SA/2client.pdf
+
 3. Server
+
+    3.a What is server?
+        
+
 4. HTTP
 5. API
 6. JSON
