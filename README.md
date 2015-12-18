@@ -90,7 +90,7 @@ X.c Reference
 	http://sproutsocial.com/insights/what-is-an-api/
 	http://stackoverflow.com/questions/7440379/what-exactly-is-the-meaning-of-an-api
 
-       
+
 6. JSON
 
    6.a What is JSON?
